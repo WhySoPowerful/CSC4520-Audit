@@ -2,3 +2,5 @@
 ## Design & Analysis: Algorithms
 
 A collection of homeworks, quizzes, and cheat sheet files for my CSC 4520 class during my Fall 2022 semester!
+
+**(Audit/Tutoring)**
