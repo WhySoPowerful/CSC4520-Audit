@@ -1,5 +1,7 @@
 ## Homework 4 Instructions & Code
 
+### Grade: 100! :D
+
 *Instructions: [HW4 Instructions](https://github.com/WhySoPowerful/CSC4520-Audit/blob/main/Homeworks/HW4/HW4.pdf)*
 
 >My HW4 File: [HW4 - Rafid Shaon.pdf](https://github.com/WhySoPowerful/CSC4520-Audit/blob/main/Homeworks/HW4/HW4%20-%20Rafid%20Shaon.pdf)
